@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=代码魔法师✨;创意工程师🎨;宇宙探索爱好者🚀&font=Fira%20Code&center=true&width=500&height=50&color=36BCF7&vCenter=true&size=24">
 </div>
 
-<p align="center">
 ## 📝 关于我
 
+<p align="center">
 - 🔭 我在代码的星辰大海中遨游，探索未知的BUG... 🌌
 - 🌱 每天都在为技能树添加新的枝叶，渴望成为技术大牛！🌳
 - 👯 热衷于开源项目，期待与有趣的灵魂一同创造！🤝
